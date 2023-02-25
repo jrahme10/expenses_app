@@ -15,6 +15,11 @@ class Homepage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+//image
+              Container(
+                child: Image.asset('images/wallet.png'),
+              ),
+
               Padding(
                 padding: const EdgeInsets.fromLTRB(15, 30, 15, 15),
                 child: Text(
