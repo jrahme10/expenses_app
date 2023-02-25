@@ -15,8 +15,10 @@ class Homepage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-//image
+              //image
               Container(
+                width: 100,
+                height: 100,
                 child: Image.asset('images/wallet.png'),
               ),
 

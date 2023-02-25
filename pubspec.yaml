@@ -78,7 +78,7 @@ flutter:
   fonts:
     - family: opensans_bold
       fonts:
-        - asset: assets/fonts/OpenSans-ExtraBold.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
     - family: opensans
       fonts:
         - asset: assets/fonts/OpenSans-Regular.ttf
